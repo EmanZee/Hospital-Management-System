@@ -1,0 +1,1 @@
+This project is about a Management System in Hospitals. It allows the users to enter their personal information and entire data of Patients including their personal information,injury or disease,duration of stay at Hospital and bill calculations can be done using this mini project in C++
